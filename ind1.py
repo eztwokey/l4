@@ -1,3 +1,7 @@
+import sys
+
+
+if __name__ == '__main__':
 m = int(input('Введите номер времени года'))
 if m == 1:
     print ('Зима')
