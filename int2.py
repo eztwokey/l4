@@ -1,3 +1,8 @@
+import math
+import sys
+
+
+if __name__ == '__main__':
 x = int(input('Введите координату Х'))
 y = int(input('Введите координату Y'))
 r1 = 1
