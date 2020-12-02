@@ -1,5 +1,6 @@
 import math
 
+
 if __name__ == '__main__':
     n = int(input("Value of n? "))
     x = float(input("Value of x? "))
