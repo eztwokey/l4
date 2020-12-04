@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 import math
 
-
 if __name__ == '__main__':
     n = int(input("Value of n? "))
     x = float(input("Value of x? "))
@@ -10,5 +9,4 @@ if __name__ == '__main__':
 for k in range(1, n + 1):
     a = math.log(k * n) / (n * n)
     S += a
-print(f"S = {S}")
-
+print(f,"S = {S}")
