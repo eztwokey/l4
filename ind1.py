@@ -15,4 +15,4 @@ if __name__ == '__main__':
     elif m == 4:
         print('Осень')
     else:
-        print('Error')
+        print('Ошибка', file=sys.stderr)
